@@ -2,6 +2,7 @@
 **Computer Science Undergrad ’27 | AI & Data Science Intern | Python, FastAPI, SQL | Building Data-Driven Solutions | Open to Internships**
 
 Email Me 👉 ✉️ **wadewaleprajyot@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🌐 Portfolio: https://prajyot-portfolio-website.vercel.app/
 
 🚀 I’m currently working on Backend Development using FastAPI and building real-world projects  <br>🤝 I’m looking to collaborate on AI and Web Development projects  <br>🧠 I’m currently learning Generative AI and advanced backend systems  <br>💬 Ask me about Python, FastAPI, and APIs  <br>⚡ Fun fact: I love exploring tech, fitness, and self-growth
 
